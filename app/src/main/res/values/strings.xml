@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">APP2DZ</string>
-    <string name="HELO">NMEDIA!</string>
+    <string name="app_name" translatable="true">NMEDIA!</string>
+    <string name="HELO" translatable="true"> NMEDIA!</string>
 
 </resources>
